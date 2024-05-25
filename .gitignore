@@ -1,0 +1,65 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Output of the Go coverage tool, specifically when used with LiteIDE
+*.out
+
+
+# Log files
+*.log
+
+
+# Temporary files
+*.tmp
+
+# IDE and Editor folders/files
+.idea/
+.vscode/
+*.swp
+*~
+
+# Dependencies
+vendor/
+
+# Go build output
+/bin/
+/build/
+/dist/
+/target/
+/release/
+/output/
+
+# Personal Notes or Project Files
+*.notes
+*.todo
+*.bak
+
+# Generated files
+*.gen.go
+
+# Testing Results
+*.test
+
+# Cache
+/.cache
+
+# Dependency directory
+.gopath/
+
+# Build artifacts
+*.exe
+*.out
+*.test
+
+# User-specific IDE configurations
+*.iml
+*.ipr
+*.iws
+
+# Logs and debug traces
+debug/
+trace/

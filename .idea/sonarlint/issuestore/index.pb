@@ -41,3 +41,6 @@ L
 responseDtos/UserResponse.go,b\c\bcf980fd0c1e091794b30ba083e0f800b6e15373
 S
 #repositories/userRolesRepository.go,6\8\68e70aad09fb2779c465a24950601d9904c345bb
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
